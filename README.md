@@ -9,7 +9,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://expressjs.com" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"
@@ -17,7 +17,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://git-scm.com/" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -25,7 +25,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://heroku.com" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
@@ -33,7 +33,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://www.w3.org/html/" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
@@ -41,7 +41,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://jasmine.github.io/" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"
@@ -49,7 +49,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
@@ -60,7 +60,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://jestjs.io" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -68,7 +68,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://www.linux.org/" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
@@ -76,7 +76,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://nodejs.org" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
@@ -84,7 +84,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://www.postgresql.org" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
@@ -92,7 +92,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://reactjs.org/" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
@@ -100,7 +100,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://reactnative.dev/" target="_blank">
         <img
             src="https://reactnative.dev/img/header_logo.svg"
@@ -108,7 +108,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://redis.io" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg"
@@ -116,7 +116,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://redux.js.org" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"
@@ -124,7 +124,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://sass-lang.com" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
@@ -132,7 +132,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
@@ -140,7 +140,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://vuejs.org/" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg"
