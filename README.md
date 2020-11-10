@@ -153,7 +153,7 @@
 
 - 🔭 I’m currently working on [Treddits](http://treddits.herokuapp.com/)
 
-- 🌱 I’m currently learning **TypeScript, Python, Node.js. I'm also learning how to think like a software engineer. how to an efficient problem solver, how to learn effectively, and above all how to be better at time management.**
+- 🌱 I’m currently learning **TypeScript, Python, Node.js. I'm also learning how to think like a software engineer. how to be an efficient problem solver, how to learn effectively, and above all how to be better at time management.**
 
 - 💬 Ask me about **Questions are always welcome. answers might not always be satisfying though ;)**
 
