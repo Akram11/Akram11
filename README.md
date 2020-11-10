@@ -172,6 +172,9 @@
             height="30"
             width="40"
     /></a>
+    &nbsp;
+    &nbsp;
+    &nbsp;
     <a href="https://linkedin.com/in/akram-fa" target="blank"
         ><img
             align="center"
