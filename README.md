@@ -159,7 +159,7 @@
 
 - 📫 How to reach me **akram.f11@gmail.com**
 
-- ⚡ Fun fact **I spend a decent amount of time thinking how not to over-think. I can tell you, it's not so much fun.**
+- ⚡ Fun fact **I spend a decent amount of time thinking about how not to over-think. I can tell you, it's not so much fun.**
 
 
 <h3 align="left">Connect with me:</h3>
