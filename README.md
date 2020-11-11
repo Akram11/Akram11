@@ -1,6 +1,8 @@
 <h3 align="center">A passionate developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
+&nbsp;
+
 <p align="center">
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img
@@ -150,6 +152,9 @@
         />
     </a>
 </p>
+&nbsp;
+&nbsp;
+&nbsp;
 
 - 🔭 I’m currently working on [Treddits](http://treddits.herokuapp.com/)
 
@@ -161,7 +166,8 @@
 
 - ⚡ Fun fact **I spend a decent amount of time thinking about how not to over-think. I can tell you, it's not so much fun.**
 
-
+&nbsp;
+&nbsp;
 <h3 align="left">Connect with me:</h3>
 <p align="center">
     <a href="https://twitter.com/akram_f11" target="blank"
@@ -191,17 +197,18 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=akram11&show_icons=true&locale=en&layout=compact"
         alt="akram11"
     />
-</p>
 
-<p>
-    &nbsp;<img
+
+
+    &nbsp;
+    <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=akram11&show_icons=true&locale=en"
         alt="akram11"
     />
 </p>
 
-<p align="left">
+<p align="center">
     <a href="https://twitter.com/akram_f11" target="blank"
         ><img
             src="https://img.shields.io/twitter/follow/akram_f11?logo=twitter&style=for-the-badge"
