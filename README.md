@@ -1,4 +1,4 @@
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">I like building things. my strongest motivation is gaining knowledge. and my upmost joy is to discuss ideas and concepts.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 &nbsp;
