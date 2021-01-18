@@ -18,7 +18,7 @@
         <img
             src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
             alt="express"
-            width="40"
+            width="60"
             height="40"
         />
     </a>&nbsp;
@@ -85,7 +85,7 @@
         <img
             src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
             alt="nodejs"
-            width="40"
+            width="60"
             height="40"
         />
     </a>&nbsp;
@@ -93,7 +93,7 @@
         <img
             src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"
             alt="postgresql"
-            width="40"
+            width="60"
             height="40"
         />
     </a>&nbsp;
@@ -101,7 +101,7 @@
         <img
             src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
             alt="react"
-            width="40"
+            width="60"
             height="40"
         />
     </a>&nbsp;
