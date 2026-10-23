@@ -1,5 +1,6 @@
+### Hey, I'm Akram 👋
 
+Bring me an idea, especially a half-baked one, and I'm in.
 
-<h3 align="center">I like building things. My strongest motivation is gaining knowledge, and my upmost joy is to discuss ideas and concepts.</h3>
-
-
+Big fan of tech that makes people's lives better, and of a Levantine
+dinner I cooked myself.
